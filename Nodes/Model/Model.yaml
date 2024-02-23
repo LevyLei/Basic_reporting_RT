@@ -1,0 +1,13 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Id: g=719b20cfd9121376fb35fa2bfd37e759
+  Type: BaseDataVariableType
+  DataType: ResourceUri
+  Value: "0"
+- Name: Variable2
+  Id: g=e51899bab1f368b000fdb7e73a0a5a7b
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: true
